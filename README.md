@@ -3,8 +3,6 @@
 A simple plugin allowing to automatically approve or reject the pending course
 requests. Maximum number of automatically approved courses per user can be configured.
 
-The feature has been originally developed by 
-
 ## License ##
 
 Based on the original feature implementation by Dan Poltawski <dan@moodle.com>.
